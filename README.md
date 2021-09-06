@@ -1,2 +1,3 @@
-# ola-mundo
- Testando o GitHub Desktop
+# Olá, mundo!
+## Repositório criado apenas para teste
+### Agradecimentos ao brilhante e generoso prof. Guanabara.
