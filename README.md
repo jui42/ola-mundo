@@ -1,6 +1,6 @@
 # Olá, mundo!
 ## Repositório criado 
-### Apenas teste
+### Agradecimento:
 
 Agradecimentos ao brilhante e generoso prof. Guanabara.
 
